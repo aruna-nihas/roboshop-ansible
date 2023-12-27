@@ -1,5 +1,5 @@
 [mongodb]
-3.93.212.174
+mongodb.sanmdevops.online
 [catalogue]
 catalogue.sanmdevops.online
 [user]
@@ -7,7 +7,7 @@ user.sanmdevops.online
 [cart]
 cart.sanmdevops.online
 [web]
-web.sanmdevops.online
+3.93.212.174
 [redis]
 redis.sanmdevops.online
 [mysql]
